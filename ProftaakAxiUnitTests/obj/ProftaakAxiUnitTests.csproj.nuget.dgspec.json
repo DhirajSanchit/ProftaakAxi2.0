@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiUnitTests\\ProftaakAxiUnitTests.csproj": {}
+    "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiUnitTests\\ProftaakAxiUnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxi2.0\\ProftaakAxi2.0.csproj": {
+    "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxi2.0\\ProftaakAxi2.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxi2.0\\ProftaakAxi2.0.csproj",
+        "projectUniqueName": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxi2.0\\ProftaakAxi2.0.csproj",
         "projectName": "ProftaakAxi2.0",
-        "projectPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxi2.0\\ProftaakAxi2.0.csproj",
-        "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxi2.0\\obj\\",
+        "projectPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxi2.0\\ProftaakAxi2.0.csproj",
+        "packagesPath": "C:\\Users\\stijn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxi2.0\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stijn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,14 +32,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiDal\\ProftaakAxiDal.csproj": {
-                "projectPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiDal\\ProftaakAxiDal.csproj"
+              "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiDal\\ProftaakAxiDal.csproj": {
+                "projectPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiDal\\ProftaakAxiDal.csproj"
               },
-              "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj": {
-                "projectPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj"
+              "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj": {
+                "projectPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj"
               },
-              "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiLogic\\ProftaakAxiLogic.csproj": {
-                "projectPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiLogic\\ProftaakAxiLogic.csproj"
+              "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiLogic\\ProftaakAxiLogic.csproj": {
+                "projectPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiLogic\\ProftaakAxiLogic.csproj"
               }
             }
           }
@@ -81,6 +85,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.14, 5.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -89,21 +99,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiDal\\ProftaakAxiDal.csproj": {
+    "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiDal\\ProftaakAxiDal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiDal\\ProftaakAxiDal.csproj",
+        "projectUniqueName": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiDal\\ProftaakAxiDal.csproj",
         "projectName": "ProftaakAxiDal",
-        "projectPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiDal\\ProftaakAxiDal.csproj",
-        "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiDal\\obj\\",
+        "projectPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiDal\\ProftaakAxiDal.csproj",
+        "packagesPath": "C:\\Users\\stijn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiDal\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stijn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -143,21 +157,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj": {
+    "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj",
+        "projectUniqueName": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj",
         "projectName": "ProftaakAxiInterface",
-        "projectPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj",
-        "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiInterface\\obj\\",
+        "projectPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj",
+        "packagesPath": "C:\\Users\\stijn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiInterface\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stijn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -197,21 +215,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiLogic\\ProftaakAxiLogic.csproj": {
+    "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiLogic\\ProftaakAxiLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiLogic\\ProftaakAxiLogic.csproj",
+        "projectUniqueName": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiLogic\\ProftaakAxiLogic.csproj",
         "projectName": "ProftaakAxiLogic",
-        "projectPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiLogic\\ProftaakAxiLogic.csproj",
-        "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiLogic\\obj\\",
+        "projectPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiLogic\\ProftaakAxiLogic.csproj",
+        "packagesPath": "C:\\Users\\stijn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiLogic\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stijn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -251,21 +273,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiUnitTests\\ProftaakAxiUnitTests.csproj": {
+    "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiUnitTests\\ProftaakAxiUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiUnitTests\\ProftaakAxiUnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiUnitTests\\ProftaakAxiUnitTests.csproj",
         "projectName": "ProftaakAxiUnitTests",
-        "projectPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiUnitTests\\ProftaakAxiUnitTests.csproj",
-        "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiUnitTests\\obj\\",
+        "projectPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiUnitTests\\ProftaakAxiUnitTests.csproj",
+        "packagesPath": "C:\\Users\\stijn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiUnitTests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stijn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -279,17 +305,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxi2.0\\ProftaakAxi2.0.csproj": {
-                "projectPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxi2.0\\ProftaakAxi2.0.csproj"
+              "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxi2.0\\ProftaakAxi2.0.csproj": {
+                "projectPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxi2.0\\ProftaakAxi2.0.csproj"
               },
-              "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiDal\\ProftaakAxiDal.csproj": {
-                "projectPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiDal\\ProftaakAxiDal.csproj"
+              "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiDal\\ProftaakAxiDal.csproj": {
+                "projectPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiDal\\ProftaakAxiDal.csproj"
               },
-              "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj": {
-                "projectPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj"
+              "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj": {
+                "projectPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj"
               },
-              "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiLogic\\ProftaakAxiLogic.csproj": {
-                "projectPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiLogic\\ProftaakAxiLogic.csproj"
+              "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiLogic\\ProftaakAxiLogic.csproj": {
+                "projectPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiLogic\\ProftaakAxiLogic.csproj"
               }
             }
           }
@@ -339,7 +365,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

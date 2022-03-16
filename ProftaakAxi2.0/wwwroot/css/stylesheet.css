@@ -65,7 +65,7 @@
     margin-left:10px;
     position:absolute;
     margin-top:125px;
-    width:250px;
+    width:400px;
     border-radius:12px;
     color:black;
 
@@ -151,13 +151,13 @@
 }
 
 .new-article-modal-category-input{
-    margin-top:60px;
+    margin-top:80px;
     margin-left:300px;
 }
 
 .new-article-modal-price-input{
     margin-top:30px;
-    margin-left:70%;
+    margin-left:66%;
 }
 
 .new-article-modal-description-input{
@@ -168,4 +168,17 @@
     text-align:left;
     resize:none;
     color:black;
+}
+.exit-cross-container{
+    position:relative;
+    float:right;
+    height:30px;
+    width:30px;
+    margin-right:5px;
+    margin-top:5px;
+    cursor:pointer;
+}
+.exit-cross-container img{
+    height:30px;
+    width:30px;
 }

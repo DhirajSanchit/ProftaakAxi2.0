@@ -10,3 +10,15 @@ C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiInterface\obj\Debug\net5
 C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiInterface\obj\Debug\net5.0\ProftaakAxiInterface.dll
 C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiInterface\obj\Debug\net5.0\ref\ProftaakAxiInterface.dll
 C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiInterface\obj\Debug\net5.0\ProftaakAxiInterface.pdb
+C:\Users\stijn\RiderProjects\ProftaakAxi2.0\ProftaakAxiInterface\bin\Debug\net5.0\ProftaakAxiInterface.deps.json
+C:\Users\stijn\RiderProjects\ProftaakAxi2.0\ProftaakAxiInterface\bin\Debug\net5.0\ProftaakAxiInterface.dll
+C:\Users\stijn\RiderProjects\ProftaakAxi2.0\ProftaakAxiInterface\bin\Debug\net5.0\ProftaakAxiInterface.pdb
+C:\Users\stijn\RiderProjects\ProftaakAxi2.0\ProftaakAxiInterface\obj\Debug\net5.0\ProftaakAxiInterface.csproj.AssemblyReference.cache
+C:\Users\stijn\RiderProjects\ProftaakAxi2.0\ProftaakAxiInterface\obj\Debug\net5.0\ProftaakAxiInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stijn\RiderProjects\ProftaakAxi2.0\ProftaakAxiInterface\obj\Debug\net5.0\ProftaakAxiInterface.AssemblyInfoInputs.cache
+C:\Users\stijn\RiderProjects\ProftaakAxi2.0\ProftaakAxiInterface\obj\Debug\net5.0\ProftaakAxiInterface.AssemblyInfo.cs
+C:\Users\stijn\RiderProjects\ProftaakAxi2.0\ProftaakAxiInterface\obj\Debug\net5.0\ProftaakAxiInterface.csproj.CoreCompileInputs.cache
+C:\Users\stijn\RiderProjects\ProftaakAxi2.0\ProftaakAxiInterface\obj\Debug\net5.0\ProftaakAxiInterface.dll
+C:\Users\stijn\RiderProjects\ProftaakAxi2.0\ProftaakAxiInterface\obj\Debug\net5.0\refint\ProftaakAxiInterface.dll
+C:\Users\stijn\RiderProjects\ProftaakAxi2.0\ProftaakAxiInterface\obj\Debug\net5.0\ProftaakAxiInterface.pdb
+C:\Users\stijn\RiderProjects\ProftaakAxi2.0\ProftaakAxiInterface\obj\Debug\net5.0\ref\ProftaakAxiInterface.dll
