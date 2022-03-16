@@ -1,0 +1,12 @@
+C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiDal\bin\Debug\net5.0\ProftaakAxiDal.deps.json
+C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiDal\bin\Debug\net5.0\ProftaakAxiDal.dll
+C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiDal\bin\Debug\net5.0\ref\ProftaakAxiDal.dll
+C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiDal\bin\Debug\net5.0\ProftaakAxiDal.pdb
+C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiDal\obj\Debug\net5.0\ProftaakAxiDal.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiDal\obj\Debug\net5.0\ProftaakAxiDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiDal\obj\Debug\net5.0\ProftaakAxiDal.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiDal\obj\Debug\net5.0\ProftaakAxiDal.AssemblyInfo.cs
+C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiDal\obj\Debug\net5.0\ProftaakAxiDal.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiDal\obj\Debug\net5.0\ProftaakAxiDal.dll
+C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiDal\obj\Debug\net5.0\ref\ProftaakAxiDal.dll
+C:\Users\Tom\Desktop\WebAppKR\ProftaakAxi2.0\ProftaakAxiDal\obj\Debug\net5.0\ProftaakAxiDal.pdb

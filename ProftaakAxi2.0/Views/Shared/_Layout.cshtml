@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ProftaakAXI</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/css/stylesheet.css" asp-append-version="true"/>
+</head>
+<body>
+@*Self made top-nav - no bootstrap*@
+<header>
+    <div class="top_nav" id="top_nav">
+        <div class="top_nav_logo" id="top_nav_logo">
+            <img src="https://www.axi.nl/themes/custom/novsubtheme/img/logos/logo.svg" alt="logo_axi_purple"/>
+        </div>
+        <div class="top_nav_button_container" id="top_nav_button_container">
+            <a asp-controller="Home" asp-action="Index">
+                <p>Home</p></a>
+            <a asp-controller="Home" asp-action="Stock">
+                <p>Stock</p></a>
+        </div>
+    </div>
+</header>
+<div class="container"> @*Contains main body of page*@
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+</div>
+@*Standard bootstrap footer, might change later*@
+<footer class="border-top footer text-muted">
+    <div class="container">
+        &copy; 2022 - ProftaakAXI - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </div>
+</footer>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
