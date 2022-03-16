@@ -4,7 +4,7 @@
 }
 <body>
 @* Button to add article *@
-<div class="btn-add-article" onclick="">
+<div class="btn-add-article" onclick="showElement('new-article-modal')">
     <p>Add Article</p>
 </div>
 @* searchbar *@
@@ -35,12 +35,18 @@
     <div class="new-article-modal-image-box">
         <img src="~/images/vector-Search.png" alt="Search-Icon">
     </div>
+    <div class="btn-add-modal-img">
+        <p>Add Image</p>
+    </div>
     <input class="new-article-modal-name-input" placeholder="Name">
     <input class="new-article-modal-category-input" placeholder="Category">
     <input class="new-article-modal-price-input" placeholder="Price">
-    <textarea class="new-article-modal-description-input" placeholder="Description"> </textarea>
     <div class="exit-cross-container">
         <img src="~/images/exit-Cross.png" alt="Exit-Cross" onclick="hideElement('new-article-modal')">
     </div>
+    <form>
+    <textarea class="new-article-modal-description-input" placeholder="Description"></textarea>
+    </form>
+   
 </div>
 </body>

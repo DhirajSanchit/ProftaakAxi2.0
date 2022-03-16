@@ -68,7 +68,6 @@
     width:400px;
     border-radius:12px;
     color:black;
-
 }
 /*Style for stock article-sheet*/
 .sheet-top{
@@ -124,12 +123,13 @@
     height:700px;
     width:80%;
     max-width:1250px;
-
+    display:none;
 }
 .new-article-modal input{
     border-radius:4px;
     position:absolute;
     color:black;
+    width:25%;
 }
 
 .new-article-modal-image-box{
@@ -145,6 +145,21 @@
     width:180px;
 }
 
+.btn-add-modal-img{
+    position:absolute;
+    margin-top: 220px;
+    margin-left:45px;
+    height:35px;
+    width:150px;
+    border:1px solid black;
+    box-shadow:2px 5px dimgrey;
+    cursor:pointer;
+}
+.btn-add-modal-img p {
+    color: black;
+    text-align: center;
+    margin-top: 4px;
+}
 .new-article-modal-name-input{
     margin-top:30px;
     margin-left:300px;
