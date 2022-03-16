@@ -1,9 +1,8 @@
-﻿using System.Collections.Generic;
-using ProftaakAXI.Containers;
-using ProftaakAXI.DAL;
-using ProftaakAXI.Data;
+﻿using ProftaakAxi2._0.Data;
+using ProftaakAxiDal.DAL;
+using ProftaakAxiLogic.Containers;
 
-namespace ProftaakAXI
+namespace ProftaakAxi2._0
 {
     public static class Toolbox
     {

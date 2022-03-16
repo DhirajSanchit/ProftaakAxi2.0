@@ -1,4 +1,4 @@
-﻿namespace ProftaakAXI.Classes
+﻿namespace ProftaakAxiLogic.Classes
 {
     public class Employee
     { 

@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq.Expressions;
-using System.Security.Permissions;
-using Microsoft.AspNetCore.Http.Extensions;
 
-namespace ProftaakAXI.Data
+namespace ProftaakAxi2._0.Data
 { 
     //Deprecated?
     public class QueryHandler

@@ -1,4 +1,4 @@
-﻿namespace ProftaakAXI.Data
+﻿namespace ProftaakAxi2._0.Data
 {
     public class Cryptographer
     {

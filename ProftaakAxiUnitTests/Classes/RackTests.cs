@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ProftaakAXI.Classes;
+using ProftaakAxiLogic.Classes;
 
-namespace UnitTests.Classes
+namespace ProftaakAxiUnitTests.Classes
 {
     [TestClass]
     public class RackTests

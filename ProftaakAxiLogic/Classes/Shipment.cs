@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ProftaakAXI.Classes
+namespace ProftaakAxiLogic.Classes
 {
     public class Shipment
     {

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ProftaakAXI.Classes
+﻿namespace ProftaakAxiLogic.Classes
 { 
 
     public class Article

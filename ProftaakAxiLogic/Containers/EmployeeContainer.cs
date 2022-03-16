@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using ProftaakAXI.Classes;
+using ProftaakAxiLogic.Classes;
 
-namespace ProftaakAXI.Containers
+namespace ProftaakAxiLogic.Containers
 {
     public class EmployeeContainer
     {

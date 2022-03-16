@@ -1,10 +1,7 @@
-﻿using ProftaakAXI.Classes;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using ProftaakAxiLogic.Classes;
 
-namespace ProftaakAXI.Containers
+namespace ProftaakAxiLogic.Containers
 {
     public class RowContainer
     {

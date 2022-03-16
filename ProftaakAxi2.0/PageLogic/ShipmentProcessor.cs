@@ -1,7 +1,6 @@
-﻿using System.Collections.Generic;
-using ProftaakAXI.Classes;
+﻿using ProftaakAxiLogic.Classes;
 
-namespace ProftaakAXI.PageLogic
+namespace ProftaakAxi2._0.PageLogic
 {
     public class ShipmentProcessor
     {

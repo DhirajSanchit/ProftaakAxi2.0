@@ -1,9 +1,4 @@
-﻿using System.Collections.Generic;
-using ProftaakAXI.Classes;
-using ProftaakAXI.Containers;
-using ProftaakAXI.Data;
-
-namespace ProftaakAXI.PageLogic
+﻿namespace ProftaakAxi2._0.PageLogic
 {
     public class ShipmentNavigation
     {

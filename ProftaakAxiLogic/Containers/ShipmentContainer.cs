@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text.Json;
-using ProftaakAXI.Classes;
+using ProftaakAxiLogic.Classes;
 
-namespace ProftaakAXI.Containers
+namespace ProftaakAxiLogic.Containers
 {
     public class ShipmentContainer
     {
