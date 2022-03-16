@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj": {}
+    "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj": {
+    "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj",
+        "projectUniqueName": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj",
         "projectName": "ProftaakAxiInterface",
-        "projectPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj",
-        "packagesPath": "C:\\Users\\stijn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stijn\\RiderProjects\\ProftaakAxi2.0\\ProftaakAxiInterface\\obj\\",
+        "projectPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiInterface\\ProftaakAxiInterface.csproj",
+        "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tom\\Desktop\\WebAppKR\\ProftaakAxi2.0\\ProftaakAxiInterface\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\stijn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
